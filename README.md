@@ -1,1 +1,2 @@
-# Stopwatch_project
+# Prodigy_WD_02
+Stopwatch web Application
